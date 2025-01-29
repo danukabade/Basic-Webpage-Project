@@ -20,9 +20,9 @@ Fixed Footer: A footer that stays at the bottom of the page.
    
 ## Technologies Used
 
--HTML5: For structuring the webpage.
--CSS3: For styling and responsive design.
--JavaScript: To add interactivity (alert button).
+**HTML5**: For structuring the webpage.
+**CSS3**: For styling and responsive design.
+**JavaScript**: To add interactivity (alert button).
 
    
    
