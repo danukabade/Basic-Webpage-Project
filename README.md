@@ -15,8 +15,16 @@ Fixed Footer: A footer that stays at the bottom of the page.
 2. Navigate to the project folder:
    cd Basic-Webpage-Project
 3. Open the index.html file in your browser to view the webpage.
-   Alternatively, you can view the live demo here:
-   Basic-Webpage-project
+    Alternatively, you can view the live demo here:
+     https://danukabade.github.io/Basic-Webpage-Project/
+   
+## Technologies Used
+
+HTML5: For structuring the webpage.
+CSS3: For styling and responsive design.
+JavaScript: To add interactivity (alert button).
+
+   
    
    
 
